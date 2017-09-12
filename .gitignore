@@ -45,5 +45,4 @@ Temporary Items
 # PHPStorm idea directory
 .idea/*
 files/log/*
-assets/
 conf/essentia.ini
