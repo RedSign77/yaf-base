@@ -46,3 +46,4 @@ Temporary Items
 .idea/*
 files/log/*
 assets/
+conf/application.ini
