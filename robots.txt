@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Crawl-delay: 60
+Disallow: /libs/
+Disallow: /sys/
+Disallow: /vendor/
+Disallow: /files/
+Disallow: /theme/
